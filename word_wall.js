@@ -63,6 +63,26 @@ info = [
         word: 'merge',
         meaning: 'The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch'
     },
+    {
+        word: 'html',
+        meaning: 'Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser.'
+    },
+    {
+        word: 'css',
+        meaning: 'Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML'
+    },
+    {
+        word: 'bootstrap',
+        meaning: 'Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation and other interface components.'
+    },
+    {
+        word: 'javascript',
+        meaning: 'JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js'
+    },
+    {
+        word: 'jquery',
+        meaning: 'jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. '
+    },
 
 ];
 
